@@ -40,8 +40,8 @@ project part-2. Develop a logical data model based on the following requirements
     
     e. Generate the E-R diagram for the logical level (contains FKs as attributes).
     
-3. Translate the logical data model for the Oracle Enterprise DBMS.
-4. 
+project part-3. Translate the logical data model for the Oracle Enterprise DBMS. 
+
     a. Develop SQL code to create the entire database schema, reflecting the constraints
     
     identified in previous steps.
